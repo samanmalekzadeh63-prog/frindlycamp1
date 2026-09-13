@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Travlla - تراولا گردشگری و طبیعت‌گردی",
+  "description": "سایت گردشگری و طبیعت‌گردی تراولا با قابلیت رزرو تور، اطلاعات مقاصد و وبلاگ سفر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
